@@ -1,3 +1,0 @@
-# SEFinalProject
-
-[blank];0
