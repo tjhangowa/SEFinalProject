@@ -33,3 +33,5 @@ import { Application, Assets, Sprite } from "pixi.js";
     bunny.rotation += 0.1 * time.deltaTime;
   });
 })();
+
+//test pull
