@@ -1,10 +1,10 @@
-# 🧟 INFECTED: LAST STAND ⏱️
+# 🧟 INFECTION X ⏱️
 
 ## Status: Project In Development 
 
 ## ☣️ The Outbreak: Project Overview
 
-- INFECTED: LAST STAND is a fast-paced, free-for-all multiplayer survival game developed as a final project for our Software Engineering course. Set in a desolate urban environment, the game uses a dynamic, real-time infection mechanic to pit four players against each other.
+- INFECTION X is a fast-paced, free-for-all multiplayer survival game developed as a final project for our Software Engineering course. Set in a desolate urban environment, the game uses a dynamic, real-time infection mechanic to pit four players against each other.
 
 - The core premise is simple: Survival is a race against the clock and the contagion.
 
