@@ -1,4 +1,6 @@
 import { Application, Assets, Sprite } from "pixi.js";
+import "./socket";
+import { Multiplayer } from "./multiplayer";
 
 (async () => {
   // Create a new application
@@ -9,6 +11,9 @@ import { Application, Assets, Sprite } from "pixi.js";
 
   // Append the application canvas to the document body
   document.getElementById("pixi-container")!.appendChild(app.canvas);
+
+  // Multiplayer Prototype
+  new Multiplayer(app);
 
   // Load the bunny texture
   const texture = await Assets.load("/assets/bunny.png");
